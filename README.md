@@ -14,4 +14,6 @@ When I'm not studying Cyber, i'm exploring the world, playing squash, or learnin
 Education CloudSecurity content: Comprehensive content on IAM, Network Security, Data Loss Protection and more
 Tools: Open-source industry tools used in every day scenarios. Hands-on learning website designed to help you in your cloud career
 
-Come check out my website at jamieclamp
+Come check out my website at [My Website](www.jamieclamp.com)
+
+## Skills
